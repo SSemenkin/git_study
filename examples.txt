@@ -1,0 +1,5 @@
+git brach - print all branches of project
+
+git checkout -b "name"
+пример:
+git checkout -b develop
